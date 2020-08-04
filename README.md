@@ -1,5 +1,5 @@
 # Kosovo COVID-19 Dataset
-The aim of this project is having a machine readable dataset for municipalities COVID-19 data in Kosovo.
+Complete COVID-19 data for Kosovo. The aim of this project is having a machine readable dataset for municipalities COVID-19 data in Kosovo.
 
 ## Daily reports
 This folder contains daily case reports.

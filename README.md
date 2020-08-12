@@ -24,4 +24,19 @@ According to the daily report of IKSHPK.
 Instituti Kombëtar i Shëndetësisë Publike të Kosovës [@IKSHPK](https://www.facebook.com/IKSHPK/)
 
 ## Time series summary
+
 This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data is read in from the daily case report. The time series tables are subject to be updated if inaccuracies are identified in our historical data. The daily reports will not be adjusted in these instances to maintain a record of raw data.
+
+### Time series description
+
+- **Confirmed:** Confirmed cases on municipality level.
+- **Recovered:** Confirmed recoveries on municipality level.
+- **Deaths:** Confirmed deaths on municipality level.
+- **Daily:** Daily numbers for Confirmed, Recovered, Deaths and Tests on national level.
+- **Cumulative:** Daily numbers for Confirmed, Recovered, Deaths and Tests on national level.
+
+### Update frequency
+According to the daily report of IKSHPK.
+
+### Data sources
+Instituti Kombëtar i Shëndetësisë Publike të Kosovës [@IKSHPK](https://www.facebook.com/IKSHPK/) and COVID-19 pandemic in Kosovo [Wikipedia Page](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Kosovo)
